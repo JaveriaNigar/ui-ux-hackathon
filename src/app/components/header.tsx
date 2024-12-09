@@ -22,7 +22,7 @@ const Header = () => {
           {/* Navigation Links */}
           <div className="hidden sm:block">
             <ul className="flex gap-4 md:gap-6 lg:gap-8 text-sm md:text-base lg:text-lg">
-              <li><Link href="/featuredPage">News & Featured</Link></li>
+              <li><Link href="/featuredpage">News & Featured</Link></li>
               <li><Link href="/allproducts">Men</Link></li>
               <li><Link href="/allproducts">Women</Link></li>
               <li><Link href="/allproducts">Kids</Link></li>
